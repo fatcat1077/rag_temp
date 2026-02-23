@@ -1,0 +1,9 @@
+# secrets
+.env
+
+# virtual env
+.venv/
+venv/
+
+# vector db (generated)
+db/
