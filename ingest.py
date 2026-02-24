@@ -16,19 +16,19 @@ SOURCES = {
     "laws": {
         "pattern": "data/laws/*.txt",
         "collection": "trust_laws",
-        "chunk_size": 700,
+        "chunk_size": 550,
         "chunk_overlap": 120,
     },
     "articles": {
         "pattern": "data/articles/*.txt",
         "collection": "trust_articles",
-        "chunk_size": 400,
+        "chunk_size": 300,
         "chunk_overlap": 80,
     },
     "products": {
         "pattern": "data/products/*.txt",
         "collection": "trust_products",
-        "chunk_size": 320,
+        "chunk_size": 300,
         "chunk_overlap": 60,
     },
 }
